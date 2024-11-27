@@ -44,6 +44,6 @@ Si deseas trabajar con este proyecto en tu computadora, clona o descarga el repo
 
 ```bash
 git clone https://github.com/usuario/proyecto-sqlite-python.git
-cd proyecto-sqlite-python
+cd proyecto-sqlite-python ´´´
 
-https://ghttps://github.com/user-attachments/assets/974d65b2-803b-4e80-b5c3-e8f82d1cbc9dithub.com/user-attachments/assets/974d65b2-803b-4e80-b5c3-e8f82d1cbc9d
+https://github.com/user-attachments/assets/a31e2f55-6f59-4dd1-b1a7-b1d3bfe02267
