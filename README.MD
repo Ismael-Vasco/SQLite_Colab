@@ -38,12 +38,14 @@ El script realiza las siguientes operaciones con la base de datos:
 
 ## Instrucciones de uso
 
+https://github.com/user-attachments/assets/a31e2f55-6f59-4dd1-b1a7-b1d3bfe02267
+
 ### 1. Clonar o descargar el repositorio
 
 Si deseas trabajar con este proyecto en tu computadora, clona o descarga el repositorio en tu máquina.
 
 ```bash
 git clone https://github.com/usuario/proyecto-sqlite-python.git
-cd proyecto-sqlite-python ´´´
+cd proyecto-sqlite-python 
 
-https://github.com/user-attachments/assets/a31e2f55-6f59-4dd1-b1a7-b1d3bfe02267
+
